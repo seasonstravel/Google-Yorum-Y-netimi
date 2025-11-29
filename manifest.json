@@ -1,0 +1,21 @@
+{
+  "name": "Google Yorum Görev Sistemi",
+  "short_name": "YorumYS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10629/10629607.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10629/10629607.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
